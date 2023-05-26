@@ -1,0 +1,5 @@
+cltl.brain==1.0.dev2
+cltl.combot==1.0.dev0
+ipykernel==6.23.1
+notebook==6.5.4
+requests==2.31.0
