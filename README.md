@@ -14,7 +14,7 @@ This repository contains Jupyter notebooks that showcase how to turn dialogue in
    etc.). For example:
 
    ```bash
-   conda create --name ekg-tutorial  python=3.8
+   conda create --name ekg-tutorial python=3.8
    conda activate ekg-tutorial
    ```
 
